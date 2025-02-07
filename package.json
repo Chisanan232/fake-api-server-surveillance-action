@@ -1,0 +1,14 @@
+{
+  "name": "fake-api-server-surveillance_action",
+  "version": "0.1.0",
+  "description": "🤖 Set up a GitHub action workflow to monitor any changes at interface of API server implementations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0"
+  }
+}
